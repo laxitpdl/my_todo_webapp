@@ -1,0 +1,10 @@
+# .streamlit/config.toml
+
+[menu]
+about = """
+### My AI Task Companion
+
+This app was built by **[Your Name Here]**.
+
+It uses an AI assistant to help you add, edit, and manage your tasks. Feel free to connect with me on [GitHub](https://github.com/your-username)!
+"""
